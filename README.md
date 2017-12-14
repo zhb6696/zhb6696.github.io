@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+﻿这里放置着我的博客数据
+===
 
-You can use the [editor on GitHub](https://github.com/zhb6696/zhb6696.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+当我推送东西到这里时，[Jekyll](http://github.com/mojombo/jekyll)会将这个库自动转化为一个静态网站。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我使用Jekyll的默认模板，站点名称为[San's world](http://hueidou.github.io/)。
 
-### Markdown
+许可证
+===
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+下面的文件和文件夹及其内容属于hueidou163。你不可以转载或直接使用它们，除非经过我的允许。
 
-```markdown
-Syntax highlighted code block
+* _posts/
+* images/
+* favicon.ico
 
-# Header 1
-## Header 2
-### Header 3
+其他的文件和文件夹使用MIT许可，你可以随意使用这些HTML和CSS。如果可以，希望你加一个链接到作者的[Jekyll](http://github.com/mojombo/jekyll)项目上去，当然这不是必须的。
 
-- Bulleted
-- List
+其他
+===
 
-1. Numbered
-2. List
+看到有将近20个fork，感到很荣幸~！但还是提醒大家，用Github Pages建立自己的博客个人不建议使用fork，参考[GitHub Pages](https://pages.github.com/)。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhb6696/zhb6696.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+另外，如果fork或者使用这个模板，请遵守许可证的说明对相应内容进行删除，并且请删除Disqus、Google统计等第三方个人代码。（评论有乱入的呀~）
